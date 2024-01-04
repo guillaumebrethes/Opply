@@ -12,3 +12,5 @@ This is the notebook that allows you to go further in the analysis
 * 3 - Requests
   * 3 - 1 - Cleaning
   * 3 - 2 - Analysis
+
+* 4 - Notes from old notebook
