@@ -11,6 +11,11 @@ This is the notebook that allows you to go further in the analysis
 
 * 3 - Requests
   * 3 - 1 - Cleaning
-  * 3 - 2 - Analysis
+  
+* 4 - Merge
+  * 4 - 1 Merge quotes with request
+  * 4 - 2 Delete rows
+  * 4 - 3 Cleaning NAN
+  * 4 - 4 Analysis  
 
-* 4 - Notes from old notebook
+* 5 - Notes from old notebook
