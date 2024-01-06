@@ -18,4 +18,4 @@ This is the notebook that allows you to go further in the analysis
   * 4 - 3 Cleaning NAN
   * 4 - 4 Analysis  
 
-* 5 - Notes from old notebook
+* 5 - Conclusion
